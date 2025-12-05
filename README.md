@@ -1,6 +1,3 @@
-# bggn213_github
-Class work for bioinformatics at UC San Diego
-
 # Bioinformatics Class
 
 Class work for bioinformatics class [BGGN213 at UC San Diego](https://bioboot.github.io/bggn213_F25/).
